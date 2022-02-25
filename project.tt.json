@@ -1,7 +1,7 @@
 {
   "miniprogramRoot": "./",
-  "projectname": "MyProject",
-  "appid": "touristappid",
+  "projectname": "myProject",
+  "appid": "testAppId",
   "setting": {
     "es6": false,
     "minified": false
